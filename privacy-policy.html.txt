@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Chính sách quyền riêng tư</h1>
+  <p>Fast_Food App sử dụng Firebase Authentication và Facebook Login.</p>
+</body>
+</html>
