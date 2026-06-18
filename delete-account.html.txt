@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xóa tài khoản - Fast Food App</title>
+</head>
+<body>
+    <h1>Yêu cầu xóa tài khoản</h1>
+
+    <p>
+        Người dùng có thể yêu cầu xóa tài khoản và dữ liệu liên quan bằng cách gửi email tới:
+    </p>
+
+    <p>
+        <strong>quyenngo0604@gmail.com</strong>
+    </p>
+
+    <p>
+        Tiêu đề email:
+        <strong>Yêu cầu xóa tài khoản Fast Food App</strong>
+    </p>
+
+    <p>
+        Sau khi xác minh danh tính, chúng tôi sẽ xử lý yêu cầu trong vòng 7 ngày làm việc.
+    </p>
+
+    <p>
+        Dữ liệu sẽ được xóa bao gồm:
+    </p>
+
+    <ul>
+        <li>Thông tin tài khoản</li>
+        <li>Địa chỉ giao hàng</li>
+        <li>Lịch sử đơn hàng</li>
+        <li>Dữ liệu đăng nhập liên kết</li>
+    </ul>
+
+    <p>
+        <a href="privacy-policy.html">
+            Xem Chính sách quyền riêng tư
+        </a>
+    </p>
+</body>
+</html>

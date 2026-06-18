@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fast Food App</title>
+</head>
+<body>
+    <h1>Fast Food App</h1>
+
+    <p>Tài liệu ứng dụng:</p>
+
+    <ul>
+        <li>
+            <a href="privacy-policy.html">
+                Chính sách quyền riêng tư
+            </a>
+        </li>
+
+        <li>
+            <a href="delete-account.html">
+                Hướng dẫn xóa tài khoản
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
